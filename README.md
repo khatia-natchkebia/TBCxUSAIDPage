@@ -19,3 +19,8 @@ CSS ის თანამედროვე დიზაინის პრი�
  გამოვიყენე navbar, carousel, cards, collapse სტრუქტურის და დამატებითი დიზაინისთვის.
 ###JavaScript (ES6): 
 დინამიური კონტენტისთვის.  არ გამომიყენებია ბიბლიოთეკები.
+
+#ინსტრუქცია თუ როგორ უნდა გაუშვა პროექტი:
+1. git clone https://khatia-natchkebia.github.io/TBCxUSAIDPage/
+2. cd TBCxUSAIDPage
+3. გახსენით 'index.html' ფაილი.
